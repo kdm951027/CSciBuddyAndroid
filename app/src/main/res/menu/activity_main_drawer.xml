@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/nav_homePage"
+        android:title="@string/menu_home_title" />
+    <group android:id="@+id/labGroup">
+        <item
+            android:id="@+id/nav_labListPage"
+            android:title="@string/menu_lab_title" />
+        <item
+            android:id="@+id/labListSubtitle"
+            android:checkable="false"
+            android:enabled="false"
+            android:title="@string/menu_lab_subTitle" />
+    </group>
+    <group android:id="@+id/groupListGroup">
+        <item
+            android:id="@+id/nav_groupListPage"
+            android:title="@string/menu_groupList_title" />
+        <item
+            android:id="@+id/groupListSubtitle"
+            android:checkable="false"
+            android:enabled="false"
+            android:title="@string/menu_groupList_subTitle" />
+    </group>
+    <item
+        android:id="@+id/nav_profilePage"
+        android:title="@string/menu_profile_title" />
+</menu>

@@ -1,0 +1,91 @@
+<resources>
+    <!-- APP -->
+    <string name="app_name">Buddy Finder</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- NAVIGATION DRAWER -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- NAVIGATION -->
+    <string name="nav_header_title">Study Buddy Finder</string>
+    <string name="nav_header_subtitle">CSCI 5115</string>
+
+
+    <!-- MENU -->
+    <string name="menu_home_title">Home</string>
+    <string name="menu_lab_title">Labs</string>
+    <string name="menu_lab_subTitle">Find study partners in real time</string>
+    <string name="menu_groupList_title">Groups</string>
+    <string name="menu_groupList_subTitle">Plan a study session ahead of time</string>
+    <string name="menu_profile_title">Profile</string>
+
+
+    <!-- PROFILE -->
+    <string name = "profile_name">Name</string>
+    <string name = "profile_about">Bio</string>
+    <string name = "profile_major">Major</string>
+    <string name = "profile_year">Year</string>
+    <string name = "profile_enrolledCourses">Enrolled Courses</string>
+    <string name = "profile_currentGroups">Current Groups</string>
+    <string name = "profile_email">Email</string>
+    <string name = "profile_interests">Interests</string>
+
+    <!-- PROFILE EDITING -->
+    <string name = "profile_ok">OK</string>
+    <string name="profile_btn_text_input_dialog">Text input dialog</string>
+    <string name="profile_info_message">Tap the fields you want to edit</string>
+    <string name = "leave_message">Would you liked to Leave your Seat?</string>
+
+
+    <!-- DUMMY PROFILE DATA -->
+    <string name = "profile_dummy_name">Student Name</string>
+    <string name = "profile_dummy_about">A student at University</string>
+    <string name = "profile_dummy_major">CSCI</string>
+    <string name="profile_dummy_year">Junior</string>
+    <string name = "profile_dummy_enrolledCourses">CSCI 0000, CSCI 2000, CSCI 4000</string>
+    <string name = "profile_dummy_email">namex000@umn.edu</string>
+
+
+    <!-- HOME SCREEN -->
+    <string name = "home_groups">Your Groups</string>
+    <string name="home_nearby">Nearby Labs</string>
+    <string name = "home_description">There are open seats in these labs near you.</string>
+
+    <!-- GROUP -->
+    <string name="class_number">Class Number</string>
+    <string name="class_name">Class Name</string>
+    <string name="group_description">Group Description</string>
+    <string name="group_members">Group Members</string>
+    <string name="time_and_date">Time and Date</string>
+
+    <!-- KELLER4425 SCREEN STRINGS -->
+    <string name="unavailable">unavailable</string>
+    <string name="available">available</string>
+    <string name="partner">look for partner</string>
+    <string name="taking_seat">Claiming this Spot</string>
+
+    <!-- GROUP JOIN/LEAVE -->
+    <string name="group_join">Join group</string>
+    <string name="group_leave">Leave group</string>
+    <string name="group_joined">Joined group</string>
+    <string name="group_left">Left group</string>
+    <string name="group_confirm">Confirm</string>
+    <string name="group_cancel">Cancel</string>
+    <string name="group_join_confirm">Are you sure you want to join this group?</string>
+    <string name="group_leave_confirm">Are you sure you want to leave this group?</string>
+
+    <!-- CREATE GROUP -->
+    <string name="group_create_description">Write a short group description.</string>
+    <string name="group_create_defaultPlace">Keller Hall Atrium Table #4</string>
+    <string name="group_create_buttonText">Create Group</string>
+    <string name="group_create_courseLabel">Group Focus</string>
+
+    <!-- LAB PAGE -->
+    <string name="seat_checkin">Check-in the seat</string>
+    <string name="subject">Enter the subject you are going to study:</string>
+</resources>
+
+    
